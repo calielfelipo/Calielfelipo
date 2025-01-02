@@ -5,7 +5,7 @@
 Me chamo Caliel Felipo, tenho 18 anos e sou natural do Rio Grande do Norte. Concluí o ensino médio no CEEPHXV com o curso técnico em Informática. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu GitHub [Calielfelipo](https://github.com/calielfelipo), onde exponho meus projetos web, e também no Instagram, no perfil [Calielfelipo](https://www.instagram.com/calielfelipo/).
 
 <p>
-  <a href="https://github.com/calielfelipo?tab=repositories&sort=stargazers">
+  <a href="https://github.com/calielfelipo?tab=followers">
     <img 
       alt="Total de estrelas" 
       title="Total de estrelas no GitHub" 
