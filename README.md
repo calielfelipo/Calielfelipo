@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Caliel Felipo
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 Me chamo Caliel Felipo, tenho 18 anos e sou natural do Rio Grande do Norte. Concluí o ensino médio no CEEPHXV com o curso técnico em Informática. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu GitHub [Calielfelipo](https://github.com/calielfelipo), onde exponho meus projetos web, e também no Instagram, no perfil [Calielfelipo](https://www.instagram.com/calielfelipo/).
 
