@@ -85,14 +85,12 @@ Sempre explorando novas ferramentas e construindo projetos do zero até o deploy
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/calielfelipo/calielfelipo/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/calielfelipo/calielfelipo/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/calielfelipo/calielfelipo/output/github-snake.svg" />
-  </picture>
+  <img 
+    src="https://raw.githubusercontent.com/calielfelipo/calielfelipo/main/profile-3d-contrib/profile-night-rainbow.svg"
+    width="100%"
+    alt="3D contribution graph"
+  />
 </p>
-
-<img src="https://raw.githubusercontent.com/calielfelipo/calielfelipo/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
 
 ---
 
