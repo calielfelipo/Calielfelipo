@@ -1,31 +1,30 @@
-name: GitHub-Profile-3D-Contrib
+name: Profile-3D
 
 on:
-  schedule:          # roda todo dia
-    - cron: "0 18 * * *"
-  workflow_dispatch: # permite rodar manualmente
+  schedule:
+    - cron: "0 18 * * *"   
+  workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  build:
+  render:
     runs-on: ubuntu-latest
-    name: generate-github-profile-3d-contrib
 
     steps:
-      - uses: actions/checkout@v5
+      - uses: actions/checkout@v4
 
-      - uses: yoshi389111/github-profile-3d-contrib@latest
+      - uses: yoshi389111/github-profile-3d-contrib@v2
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
 
-      - name: Commit & Push
+      - name: Commit and push if changed
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git add -A .
-          if git commit -m "generated"; then
-            git push
-          fi
+          git diff --quiet && exit 0
+          git add profile-3d-contrib
+          git commit -m "chore: update 3d contributions"
+          git push
