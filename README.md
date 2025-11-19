@@ -88,8 +88,6 @@ Sempre explorando novas ferramentas e construindo projetos do zero até o deploy
   <img src="https://raw.githubusercontent.com/calielfelipo/calielfelipo/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
-### 🧊 Contribution Graph 3D (Estilo Minecraft)
-
 <img src="https://raw.githubusercontent.com/calielfelipo/calielfelipo/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
 
 ---
