@@ -2,20 +2,18 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # roda todo dia à meia-noite (UTC)
+    - cron: "0 0 * * *"  # roda todo dia 00:00 UTC
   workflow_dispatch:      # permite rodar manualmente
-  push:
-    branches:
-      - main
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
 
-    steps:
-      - name: Checkout do repositório
-        uses: actions/checkout@v3
+    # PERMISSÕES PARA O GITHUB_TOKEN
+    permissions:
+      contents: write
 
+    steps:
       - name: Gerar snake (contribuições)
         uses: Platane/snk@v3
         with:
