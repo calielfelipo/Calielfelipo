@@ -84,19 +84,9 @@ Sempre explorando novas ferramentas e construindo projetos do zero até o deploy
   <img height="170" src="https://streak-stats.demolab.com/?user=calielfelipo&theme=tokyonight" />
 </p>
 
----
-
-### 🐍 Snake Graph (Animação das Contribuições)
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/calielfelipo/calielfelipo/output/github-contribution-grid-snake-dark.svg" />
 </p>
-
-> ⚠️ **IMPORTANTE**  
-Para que a snake funcione, você precisa ativar o GitHub Actions:  
-Se quiser, eu configuro o arquivo `workflow` pra você.
-
----
 
 ### 🧊 Contribution Graph 3D (Estilo Minecraft)
 
