@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?size=32&duration=3000&color=6A5ACD&center=true&vCenter=true&lines=Caliel+Felipo;Desenvolvedor+FullStack;Web+%E2%80%A2+Frontend+%E2%80%A2+Backend" />
+  <img src="https://readme-typing-svg.demolab.com?size=32&duration=3000&color=6A5ACD&center=true&vCenter=true&lines=Caliel+Felipo;Desenvolvedor+FullStack" />
 </h1>
 
 <p align="center">
