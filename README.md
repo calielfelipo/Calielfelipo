@@ -90,11 +90,8 @@ Sempre explorando novas ferramentas e construindo projetos do zero até o deploy
 
 ### 🧊 Contribution Graph 3D (Estilo Minecraft)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ashutosh00710/github-readme-3d-contrib/main/docs/demo/profile-night-rainbow.svg" width="100%" />
-</p>
+<img src="https://raw.githubusercontent.com/calielfelipo/calielfelipo/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
 
----
 
 ### 📫 Contato
 
