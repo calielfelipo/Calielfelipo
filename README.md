@@ -69,32 +69,19 @@ Sempre explorando novas ferramentas e construindo projetos do zero até o deploy
 
 ---
 
-### ⭐ Projetos em destaque (com efeitos animados)
+### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <a href="https://github.com/calielfelipo">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=calielfelipo&theme=tokyonight" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=calielfelipo&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/calielfelipo/">
-    <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=calielfelipo&theme=tokyonight" />
-    <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=calielfelipo&theme=tokyonight" />
-  </a>
-</p>
-
----
-
-### 📊 Estatísticas
-
-<p>
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=calielfelipo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=calielfelipo&theme=tokyonight&layout=compact&custom_title=Linguagens%20Mais%20Usadas&langs_count=9" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=calielfelipo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=calielfelipo&theme=tokyonight&layout=compact&custom_title=Linguagens%20Mais%20Usadas&langs_count=9" />
 </p>
 
 <p align="center">
-  <img height="180" src="https://streak-stats.demolab.com/?user=calielfelipo&theme=tokyonight" />
+  <img height="170" src="https://streak-stats.demolab.com/?user=calielfelipo&theme=tokyonight" />
 </p>
 
 ---
