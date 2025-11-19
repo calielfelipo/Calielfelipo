@@ -69,6 +69,23 @@ Sempre explorando novas ferramentas e construindo projetos do zero até o deploy
 
 ---
 
+### ⭐ Projetos em destaque (com efeitos animados)
+
+<p align="center">
+  <a href="https://github.com/calielfelipo">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=calielfelipo&theme=tokyonight" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/calielfelipo/">
+    <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=calielfelipo&theme=tokyonight" />
+    <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=calielfelipo&theme=tokyonight" />
+  </a>
+</p>
+
+---
+
 ### 📊 Estatísticas
 
 <p>
@@ -78,6 +95,26 @@ Sempre explorando novas ferramentas e construindo projetos do zero até o deploy
 
 <p align="center">
   <img height="180" src="https://streak-stats.demolab.com/?user=calielfelipo&theme=tokyonight" />
+</p>
+
+---
+
+### 🐍 Snake Graph (Animação das Contribuições)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/calielfelipo/calielfelipo/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+> ⚠️ **IMPORTANTE**  
+Para que a snake funcione, você precisa ativar o GitHub Actions:  
+Se quiser, eu configuro o arquivo `workflow` pra você.
+
+---
+
+### 🧊 Contribution Graph 3D (Estilo Minecraft)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ashutosh00710/github-readme-3d-contrib/main/docs/demo/profile-night-rainbow.svg" width="100%" />
 </p>
 
 ---
