@@ -78,7 +78,6 @@ Sempre explorando novas ferramentas e construindo projetos do zero até o deploy
   />
 </p>
 
-<!-- Cards empilhados (melhor para celular) -->
 <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=calielfelipo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
@@ -90,21 +89,6 @@ Sempre explorando novas ferramentas e construindo projetos do zero até o deploy
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=calielfelipo&theme=tokyonight&layout=compact&custom_title=Linguagens%20Mais%20Usadas&langs_count=9&card_width=320&size_weight=0.5&count_weight=0.5" 
     alt="Linguagens mais usadas"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com/?user=calielfelipo&theme=tokyonight" 
-    alt="GitHub Streak"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/calielfelipo/calielfelipo/main/profile-3d-contrib/profile-night-rainbow.svg"
-    width="100%"
-    alt="Gráfico 3D de contribuições"
   />
 </p>
 
